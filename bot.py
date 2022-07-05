@@ -1,8 +1,5 @@
 import discord
 from discord.ext import commands
-
-
-
 from customEmbeds import *
 from faq import Faq
 
@@ -11,7 +8,6 @@ intents = discord.Intents.default()
 TOKEN = "Insert your token here"
 
 bot = commands.Bot(command_prefix='!chatbot ', intents = intents)
-slash = SlashCommand(bot, sync_commands=True)
 
 faq = Faq()
 
