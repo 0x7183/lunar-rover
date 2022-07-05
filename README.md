@@ -1,2 +1,3 @@
 # lunar-rover
-Python BOT used to answer developers questions on Terra
+
+Discord bot written in Python used to answer developers questions on Terra

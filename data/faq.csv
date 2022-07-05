@@ -1,0 +1,28 @@
+trigger,answer
+docs documentation, You may find it at https://docs.terra.money/ 
+faucet,You can request money on the testnet using https://faucet.terra.money/ 
+swagger,You can have access to the API doc at https://lcd.terra.dev/swagger/
+finder,You can access transaction content using https://finder.terra.money/ or https://finder.extraterrestrial.money/
+wiki,You can access the wiki at https://terrawiki.org/
+stimate gas,You can access the gas price at https://fcd.terra.dev/v1/txs/gas_prices 
+run full node,You can read here: https://docs.terra.money/docs/full-node/run-a-full-terra-node/README.html
+golang version,You can find system configuration here: https://docs.terra.money/docs/full-node/run-a-full-terra-node/system-config.html
+address history,You can query `https://api.terra.dev/tx-history/station/{address}` to retrieve an address transactions history
+ibc token decode ibc token encode,https://terrawiki.org/en/developers/ibc-tokens
+run a validator,You can read here: https://docs.terra.money/docs/full-node/manage-a-terra-validator/faq.html
+public rpc lcd,You may find it at https://docs.terra.money/docs/develop/endpoints.html
+localterra,You can read here https://docs.terra.money/docs/develop/localterra/README.html
+terrain,You can read here: https://docs.terra.money/docs/develop/terrain/README.html
+terrad,You can read here: https://docs.terra.money/docs/develop/terrad/using-terrad.html
+new to smart contract,You can start here: https://academy.terra.money/courses/cosmwasm-smart-contracts-i
+cosmwasm docs cosmwasm documentation,You may find it at https://docs.cosmwasm.com/docs/1.0/
+terra.py python,You  may find it at https://docs.terra.money/docs/develop/terra-py/get-started-py.html
+terra.js javascript,You may find it at https://docs.terra.money/docs/develop/terra-js/README.html
+smart contract terra.js,You may find it at https://docs.terra.money/docs/develop/terra-js/smart-contracts.html
+learn rust,You can start here: https://doc.rust-lang.org/book/
+query smart contract,You can read here: https://terrawiki.org/en/developers/contract-to-contract-query
+mint cw20 token,You can read here: https://terrawiki.org/en/developers/cosmwasm/minting-cw20
+cw20, You can read here: https://docs.terra.money/docs/develop/guides/smart-contracts/manage-cw20-tokens.html
+accepting native token,You can read here: https://terrawiki.org/en/developers/cosmwasm/accepting-native-tokens
+smart contract testing,You can read here: https://terrawiki.org/en/developers/testing/smart-contract-testing
+implement unit testing,You can read here https://terrawiki.org/en/developers/testing/unit-testing
